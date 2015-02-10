@@ -11,7 +11,7 @@ set :server_name, "www.example.com example.com"
 # at filepaths
 set :full_app_name, "#{fetch(:application)}_#{fetch(:stage)}"
 
-server '192.168.22.19', user: 'deploy', roles: %w{web app db}, primary: true
+server '192.168.22.10', user: 'deploy', roles: %w{web app db}, primary: true
 
 set :deploy_to, "/product/#{fetch(:full_app_name)}"
 
