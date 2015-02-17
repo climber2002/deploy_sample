@@ -4,7 +4,7 @@ This sample application shows how to deploy a Rails 4.2 application in Ubuntu 14
 
 For more details, see my blog Deploy Rails Application on Ubuntu 14.04.
 
-[Part 1](http://climber2002.github.io/blog/2015/02/08/deploy-rails-application-on-ubuntu-14-dot-04/)
-[Part 2](http://climber2002.github.io/blog/2015/02/09/deploy-rails-application-on-ubuntu-14-dot-04-part-2/)
-[Part 3](http://climber2002.github.io/blog/2015/02/16/deploy-rails-application-on-ubuntu-14-dot-04-part-3/)
+Part1[http://climber2002.github.io/blog/2015/02/08/deploy-rails-application-on-ubuntu-14-dot-04/]
+Part2[http://climber2002.github.io/blog/2015/02/09/deploy-rails-application-on-ubuntu-14-dot-04-part-2/]
+Part3[http://climber2002.github.io/blog/2015/02/16/deploy-rails-application-on-ubuntu-14-dot-04-part-3/]
 
