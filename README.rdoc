@@ -1,28 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This sample application shows how to deploy a Rails 4.2 application in Ubuntu 14.04 server using Capistrano.
 
-Things you may want to cover:
+For more details, see my blog Deploy Rails Application on Ubuntu 14.04.
 
-* Ruby version
+[Part 1](http://climber2002.github.io/blog/2015/02/08/deploy-rails-application-on-ubuntu-14-dot-04/)
+[Part 2](http://climber2002.github.io/blog/2015/02/09/deploy-rails-application-on-ubuntu-14-dot-04-part-2/)
+[Part 3](http://climber2002.github.io/blog/2015/02/16/deploy-rails-application-on-ubuntu-14-dot-04-part-3/)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
